@@ -6,6 +6,9 @@ This document summarizes all phases and their rationale (Why statements) for the
 Architecture Diagram
 The diagram below shows how every component from the phases below fits together at runtime. Solid arrows = request/data flow, dotted arrows = metadata / build-time / supporting relationships.
 
+<img width="1663" height="775" alt="image" src="https://github.com/user-attachments/assets/80b57540-58b1-43f0-866a-5a2ddafa182b" />
+
+
 flowchart TB
     %% =========================================================
     %% CONSUMER LAYER  (Phase 7)
